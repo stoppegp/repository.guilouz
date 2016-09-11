@@ -103,7 +103,7 @@
                             <left>6</left>
                             <top>0</top>
                             <width>50</width>
-                            <height>36</height>
+                            <height>58</height>
                             <aligny>center</aligny>
                             <font>font10_title</font>
                             <label>$INFO[ListItem.Label]</label>
@@ -141,7 +141,7 @@
                             <left>6</left>
                             <top>0</top>
                             <width>50</width>
-                            <height>36</height>
+                            <height>58</height>
                             <aligny>center</aligny>
                             <font>font10_title</font>
                             <label>$INFO[ListItem.Label]</label>
