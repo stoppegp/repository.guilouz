@@ -64,7 +64,7 @@
 				<defaultcontrol>5</defaultcontrol>
 				<onleft>9000</onleft>
 				<onright>9000</onright>
-				<onup>49</onup>
+				<onup>61</onup>
 				<ondown>49</ondown>
 				<include content="InfoDialogButton">
 					<param name="id" value="5" />
